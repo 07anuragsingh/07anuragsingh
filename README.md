@@ -41,11 +41,13 @@
 
 ---
 
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=07anuragsingh&theme=radical&no-frame=false)
+<img src="https://github-profile-trophy.vercel.app/?username=07anuragsingh&theme=radical&column=4" alt="GitHub Trophies" />
+
+
 
 ---
-
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&category=programming)
